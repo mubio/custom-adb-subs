@@ -31,11 +31,11 @@
 127.0.0.1  205.251.242.195
 # [Google Inc]
 127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com #[Google AdWords]
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 adservices.google.com
-127.0.0.1 ssl.google-analytics.com #[urchinTracker]
-127.0.0.1 www.google-analytics.com #[Google Analytics]
-127.0.0.1 imageads.googleadservices.com #[Ewido.TrackingCookie.Googleadservices]
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 imageads.googleadservices.com
 127.0.0.1 imageads1.googleadservices.com
 127.0.0.1 imageads2.googleadservices.com
 127.0.0.1 imageads3.googleadservices.com
