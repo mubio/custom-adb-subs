@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Thu, 10 Jul 14 02:38:56                      #
+#                               Last updated: Mon, 21 Jul 14 19:41:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
@@ -46,3 +46,5 @@
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 adwords.google.com
+127.0.0.1 chatango.com
+127.0.0.1 animeultima.chatango.com
