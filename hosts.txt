@@ -47,4 +47,4 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 adwords.google.com
 127.0.0.1 chatango.com
-127.0.0.1 animeultima.chatango.com
+127.0.0.1 animeultimacom.chatango.com
