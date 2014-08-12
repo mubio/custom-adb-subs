@@ -50,3 +50,9 @@
 127.0.0.1 animeultimacom.chatango.com
 127.0.0.1 chatango.com
 127.0.0.1 get.mirando.de
+127.0.0.1  movies.apple.com
+127.0.0.1  rad.msn.com
+127.0.0.1  sq2trk2.com
+127.0.0.1  update.downloadhelper.net
+127.0.0.1  downloadhelper.net
+127.0.0.1 skypewebexperience.live.com
