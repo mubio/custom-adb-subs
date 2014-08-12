@@ -49,3 +49,4 @@
 127.0.0.1 st.chatango.com
 127.0.0.1 animeultimacom.chatango.com
 127.0.0.1 chatango.com
+127.0.0.1 get.mirando.de
