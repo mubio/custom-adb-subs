@@ -56,3 +56,5 @@
 127.0.0.1  update.downloadhelper.net
 127.0.0.1  downloadhelper.net
 127.0.0.1 skypewebexperience.live.com
+127.0.0.1 apps.skype.com
+127.0.0.1 app.skype.com
