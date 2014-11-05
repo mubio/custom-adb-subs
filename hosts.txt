@@ -59,6 +59,7 @@
 127.0.0.1 skypewebexperience.live.com
 127.0.0.1 apps.skype.com
 127.0.0.1 app.skype.com
+127.0.0.1 ad.qwapi.com
 127.0.0.1 media.admob.com
 127.0.0.1 a.admob.com
 127.0.0.1 c.admob.com
