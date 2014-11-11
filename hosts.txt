@@ -70,4 +70,5 @@
 127.0.0.1 mm.admob.com
 127.0.0.1 mm1.vip.sc1.admob.com
 127.0.0.1 mmv.admob.com
+127.0.0.1 s1.wallls.com
 
