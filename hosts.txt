@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Mon, 11 Aug 14 20:41:59                      #
+#                               Last updated: Sun, 1 Feb 15 11:47:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
