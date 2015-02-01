@@ -72,3 +72,4 @@
 127.0.0.1 mmv.admob.com
 127.0.0.1 s1.wallls.com
 127.0.0.1 adv758968.ru
+127.0.0.1 api.shorte.st
