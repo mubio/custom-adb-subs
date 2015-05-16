@@ -92,3 +92,4 @@
 127.0.0.1 imgn.dt09.net
 127.0.0.1 mgcd.net
 127.0.0.1 imgserve.net
+127.0.0.1 media.fastclick.net
