@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Sun, 1 Feb 15 11:47:59                      #
+#                               Last updated: Mon, 15 Feb 2016 04:03:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
@@ -93,3 +93,8 @@
 127.0.0.1 mgcd.net
 127.0.0.1 imgserve.net
 127.0.0.1 media.fastclick.net
+127.0.0.1 yellowfrance.info
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 data.retainguaninefluorite.info
+127.0.0.1 homes.com
+127.0.0.1 vq91811.com
