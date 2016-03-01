@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Tue, 01 Mar 2016 04:55:59                      #
+#                               Last updated: Tue, 01 Mar 2016 05:05:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
@@ -112,3 +112,5 @@
 127.0.0.1 akamaitechnologies.com
 127.0.0.1 50.19.77.221
 127.0.0.1 107.21.135.234
+127.0.0.1 ec2-50-19-77-221.compute-1.amazonaws.com
+127.0.0.1 ec2-107-21-135-234.compute-1.amazonaws.com
