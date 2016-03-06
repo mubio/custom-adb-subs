@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Tue, 01 Mar 2016 05:05:59                      #
+#                               Last updated: Sun, 06 Mar 2016 08:31:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
@@ -114,3 +114,52 @@
 127.0.0.1 107.21.135.234
 127.0.0.1 ec2-50-19-77-221.compute-1.amazonaws.com
 127.0.0.1 ec2-107-21-135-234.compute-1.amazonaws.com
+#
+127.0.0.1 bi.bisrv.com
+127.0.0.1 www.softonic.com
+127.0.0.1 softonic.com
+127.0.0.1 sourceforge.net
+127.0.0.1 www.bestvistadownloads.com
+127.0.0.1 image.online-convert.com/convert-to-ico
+127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
+127.0.0.1 media.opencandy.com
+127.0.0.1 cdn.opencandy.com
+127.0.0.1 tracking.opencandy.com
+127.0.0.1 api.opencandy.com
+127.0.0.1 offer.alibaba.com
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msads.net
+127.0.0.1 a.ads2.msn.com
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads1.msn.com
+127.0.0.1 adsmockarc.azurewebsites.net
+127.0.0.1 ads.msn.com
+127.0.0.1 b.ads1.msn.com
+127.0.0.1 b.ads2.msads.net
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 dl.delivery.mp.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
+127.0.0.1 reports.wes.df.telemetry.microsoft.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 spynet2.microsoft.com
+127.0.0.1 spynetalt.microsoft.com
+127.0.0.1 sqm.df.telemetry.microsoft.com
+127.0.0.1 sqm.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
+127.0.0.1 survey.watson.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
+127.0.0.1 telemetry.appex.bing.net
+127.0.0.1 telemetry.microsoft.com
+127.0.0.1 telemetry.urs.microsoft.com
+127.0.0.1 vortex-sandbox.data.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 watson.live.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 watson.ppe.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
+127.0.0.1 wes.df.telemetry.microsoft.com
+#
