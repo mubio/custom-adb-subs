@@ -1,6 +1,6 @@
 #                                     mubio's custom Hosts List                            #
 #               https://raw.githubusercontent.com/mubio/custom-adb-subs/master/hosts.txt   #
-#                               Last updated: Sun, 06 Mar 2016 08:31:59                      #
+#                               Last updated: Sun, 24 Jul 2016 07:20:59                      #
 
 127.0.0.1  localhost
 127.0.0.1 aboutads.info
@@ -162,4 +162,7 @@
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 corwrite.com
+127.0.0.1 hotelscombined.com
+127.0.0.1 driverupdate.net
 #
