@@ -167,4 +167,7 @@
 127.0.0.1 yourspecialtee.com
 127.0.0.1 trw12.com
 127.0.0.1  cloudservices.roku.com
+127.0.0.1 fwmrm.net  
+127.0.0.1 innovid.com  
+127.0.0.1 2mdn.net 
 #
