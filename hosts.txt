@@ -169,5 +169,7 @@
 127.0.0.1  cloudservices.roku.com
 127.0.0.1 fwmrm.net  
 127.0.0.1 innovid.com  
-127.0.0.1 2mdn.net 
+127.0.0.1 2mdn.net
+127.0.0.1 serving-sys.com
+127.0.0.1 secure-ds.serving-sys.com
 #
