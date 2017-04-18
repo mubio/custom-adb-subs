@@ -180,3 +180,23 @@
 127.0.0.1 onclkds.com
 127.0.0.1 66cpwgln.space
 #
+127.0.0.1 ads.doubleclick.net
+127.0.0.1 s.ytimg.com
+127.0.0.1 ad.youtube.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 www.gstatic.com
+127.0.0.1 gstatic.com
+127.0.0.1 clients1.google.com
+127.0.0.1 youtubei.youtube.com
+127.0.0.1 content.googleapis.com
+127.0.0.1 dts.innovid.com
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 clients.l.google.com
+127.0.0.1 www-googletagmanager.l.google.com
+127.0.0.1 googleadapis.l.google.com
+127.0.0.1 files.adform.net
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 analytic-google.com
+127.0.0.1 www.analytic-google.com
+#
