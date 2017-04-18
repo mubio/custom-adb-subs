@@ -200,3 +200,9 @@
 127.0.0.1 analytic-google.com
 127.0.0.1 www.analytic-google.com
 #
+127.0.0.1 gfe.nvidia.com
+127.0.0.1 report-uri.io
+127.0.0.1 static.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+#
