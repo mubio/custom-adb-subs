@@ -206,3 +206,21 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 #
+127.0.0.1 joo2ieb.bid
+127.0.0.1 go.pub2srv.com
+127.0.0.1 activefive.xyz
+127.0.0.1 isanalyze.com
+127.0.0.1 mediawhirl.net
+127.0.0.1 yie4zooseif.info
+127.0.0.1 pub2srv.com
+127.0.0.1 popads.net
+127.0.0.1 onclickads.com
+127.0.0.1 adrunnr.com
+127.0.0.1 onclickbright.com
+127.0.0.1 joo2ieb.bid
+127.0.0.1 greenwoodformula.com
+127.0.0.1 tnctrx.com
+127.0.0.1 career-journal.online
+127.0.0.1 funbagget.info
+127.0.0.1 plus69commisionorg.club
+#
