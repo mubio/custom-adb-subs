@@ -223,4 +223,5 @@
 127.0.0.1 career-journal.online
 127.0.0.1 funbagget.info
 127.0.0.1 plus69commisionorg.club
+127.0.0.1 clktag.com
 #
