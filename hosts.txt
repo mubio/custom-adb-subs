@@ -270,3 +270,4 @@
 127.0.0.1 test.iovation.com
 127.0.0.1 testgw.iovation.com
 #
+tcr.tynt.com
