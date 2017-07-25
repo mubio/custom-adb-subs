@@ -271,3 +271,4 @@
 127.0.0.1 testgw.iovation.com
 #
 127.0.0.1 tcr.tynt.com
+127.0.0.1 prompt-sys60.info
