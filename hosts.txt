@@ -273,3 +273,5 @@
 127.0.0.1 tcr.tynt.com
 127.0.0.1 prompt-sys60.info
 127.0.0.1 sessionbuddy.com
+127.0.0.1 go.pub2srv.com
+127.0.0.1 pub2srv.com
