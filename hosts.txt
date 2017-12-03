@@ -275,3 +275,5 @@
 127.0.0.1 sessionbuddy.com
 127.0.0.1 go.pub2srv.com
 127.0.0.1 pub2srv.com
+127.0.0.1 banner.agoda.com
+127.0.0.1 agoda.com
