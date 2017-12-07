@@ -1,3 +1,5 @@
+#                                 mubio's web-based cryptomining Hosts List                                #
+#            https://raw.githubusercontent.com/mubio/custom-adb-subs/master/webmininghosts.txt             #
 127.0.0.1 cnhv.co
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
