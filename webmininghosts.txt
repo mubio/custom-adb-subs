@@ -36,3 +36,9 @@
 127.0.0.1 coinlab.biz
 127.0.0.1 adminer.com
 127.0.0.1 ad-miner.com
+127.0.0.1 webmine.cz
+127.0.0.1 listat.biz
+127.0.0.1 lmodr.biz
+127.0.0.1 mataharirama.xyz
+127.0.0.1 reasedoper.pw
+127.0.0.1 safelinkconverter.com
