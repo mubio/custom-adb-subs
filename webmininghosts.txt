@@ -33,6 +33,7 @@
 127.0.0.1 coinnebula.com
 127.0.0.1 monerominer.rocks
 127.0.0.1 cdn.cloudcoins.co
+127.0.0.1 cloudcoins.co
 127.0.0.1 coinlab.biz
 127.0.0.1 adminer.com
 127.0.0.1 ad-miner.com
