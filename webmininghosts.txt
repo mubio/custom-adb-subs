@@ -51,3 +51,4 @@
 127.0.0.1 xy.nullrefexcep.com
 127.0.0.1 static.hk.rs
 127.0.0.1 static.hk.js
+127.0.0.1 authedmine.com
