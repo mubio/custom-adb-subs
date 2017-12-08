@@ -43,3 +43,4 @@
 127.0.0.1 mataharirama.xyz
 127.0.0.1 reasedoper.pw
 127.0.0.1 safelinkconverter.com
+127.0.0.1 minr.pw
