@@ -52,3 +52,11 @@
 127.0.0.1 static.hk.rs
 127.0.0.1 static.hk.js
 127.0.0.1 authedmine.com
+127.0.0.1 coinimp.com
+127.0.0.1 cdn.rove.cl
+127.0.0.1 rove.cl
+127.0.0.1 cloudcdn.gdn
+127.0.0.1 hallaert.online
+127.0.0.1 cdn.static-cnt.bid
+127.0.0.1 static-cnt.bid
+
