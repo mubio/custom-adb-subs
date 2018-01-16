@@ -12,6 +12,7 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimet
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/hosts
 https://raw.githubusercontent.com/mubio/custom-adb-subs/master/minimal-hosts-blocker_archive.txt
 https://raw.githubusercontent.com/mubio/custom-adb-subs/master/webmininghosts.txt
+#
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
