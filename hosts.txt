@@ -277,3 +277,5 @@
 127.0.0.1 pub2srv.com
 127.0.0.1 banner.agoda.com
 127.0.0.1 agoda.com
+#
+127.0.0.1 securedatas.download
