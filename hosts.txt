@@ -279,3 +279,7 @@
 127.0.0.1 agoda.com
 #
 127.0.0.1 securedatas.download
+127.0.0.1 projectwonderful.com
+127.0.0.1 flashgot.net
+127.0.0.1 informaction.com
+127.0.0.1 hackademix.net
