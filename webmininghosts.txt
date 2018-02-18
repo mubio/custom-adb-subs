@@ -59,4 +59,9 @@
 127.0.0.1 hallaert.online
 127.0.0.1 cdn.static-cnt.bid
 127.0.0.1 static-cnt.bid
-
+#
+127.0.0.1 coin-service.com
+127.0.0.1 ws019.coinhive.com
+127.0.0.1 ws005.coinhive.com
+127.0.0.1 ws013.coinhive.com
+127.0.0.1 moonbit.co.in
