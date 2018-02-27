@@ -1,6 +1,6 @@
-######################################################################
-# Modified to be usable for Adaway or as an actual HOSTS file. - mubio
-######################################################################
+########################################################################
+# Modified to be usable for Adaway or as an actual HOSTS file. - mubio #
+########################################################################
 # 280blocker host file - Modified for Adaway
 #
 #
