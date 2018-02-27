@@ -16,3 +16,4 @@ https://raw.githubusercontent.com/mubio/custom-adb-subs/master/webmininghosts.tx
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+https://raw.githubusercontent.com/mubio/custom-adb-subs/master/280blocker_adaway.txt
