@@ -327,7 +327,7 @@
 127.0.0.1 cube.jpn.com
 127.0.0.1 cyberwing.co.jp
 127.0.0.1 d.5.to
-127.0.0.1 d.pixiv.org
+# 127.0.0.1 d.pixiv.org
 127.0.0.1 d.somewrite.jp
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
