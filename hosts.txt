@@ -291,3 +291,4 @@
 127.0.0.1 delivery.trafficforce.com
 127.0.0.1 secure.bstlnk.com
 127.0.0.1 main.dynsrvaba.com
+127.0.0.1 media.r18.com
