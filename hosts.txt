@@ -292,3 +292,8 @@
 127.0.0.1 secure.bstlnk.com
 127.0.0.1 main.dynsrvaba.com
 127.0.0.1 media.r18.com
+127.0.0.1 adserver.adtech.advertising.com
+127.0.0.1 adtech.advertising.com
+127.0.0.1 advertising.com
+127.0.0.1 cdn.adless.io
+127.0.0.1 adless.io
