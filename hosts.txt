@@ -297,3 +297,6 @@
 127.0.0.1 advertising.com
 127.0.0.1 cdn.adless.io
 127.0.0.1 adless.io
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 e.crashlytics.com
