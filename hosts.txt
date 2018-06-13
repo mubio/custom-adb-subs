@@ -300,3 +300,8 @@
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 e.crashlytics.com
+#
+127.0.0.1 redshell.io
+127.0.0.1 api.redshell.io
+127.0.0.1 treasuredata.com
+127.0.0.1 in.treasuredata.com
