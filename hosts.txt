@@ -308,3 +308,4 @@
 127.0.0.1 services.gfe.nvidia.com #Block nVidia GFE Update
 127.0.0.1 ads.isboost.co.jp
 127.0.0.1 mediad2.jp
+127.0.0.1 spacenine.biz
