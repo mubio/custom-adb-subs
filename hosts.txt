@@ -306,3 +306,4 @@
 127.0.0.1 treasuredata.com
 127.0.0.1 in.treasuredata.com
 127.0.0.1 services.gfe.nvidia.com #Block nVidia GFE Update
+127.0.0.1 ads.isboost.co.jp
