@@ -65,3 +65,4 @@
 127.0.0.1 ws005.coinhive.com
 127.0.0.1 ws013.coinhive.com
 127.0.0.1 moonbit.co.in
+127.0.0.1 rec4coin.site
